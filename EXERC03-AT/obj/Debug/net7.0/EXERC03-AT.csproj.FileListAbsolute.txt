@@ -1,0 +1,15 @@
+/Users/williamsantanadeamorim/Projects/EXERC03-AT/EXERC03-AT/bin/Debug/net7.0/EXERC03-AT
+/Users/williamsantanadeamorim/Projects/EXERC03-AT/EXERC03-AT/bin/Debug/net7.0/EXERC03-AT.deps.json
+/Users/williamsantanadeamorim/Projects/EXERC03-AT/EXERC03-AT/bin/Debug/net7.0/EXERC03-AT.runtimeconfig.json
+/Users/williamsantanadeamorim/Projects/EXERC03-AT/EXERC03-AT/bin/Debug/net7.0/EXERC03-AT.dll
+/Users/williamsantanadeamorim/Projects/EXERC03-AT/EXERC03-AT/bin/Debug/net7.0/EXERC03-AT.pdb
+/Users/williamsantanadeamorim/Projects/EXERC03-AT/EXERC03-AT/obj/Debug/net7.0/EXERC03-AT.csproj.AssemblyReference.cache
+/Users/williamsantanadeamorim/Projects/EXERC03-AT/EXERC03-AT/obj/Debug/net7.0/EXERC03-AT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamsantanadeamorim/Projects/EXERC03-AT/EXERC03-AT/obj/Debug/net7.0/EXERC03-AT.AssemblyInfoInputs.cache
+/Users/williamsantanadeamorim/Projects/EXERC03-AT/EXERC03-AT/obj/Debug/net7.0/EXERC03-AT.AssemblyInfo.cs
+/Users/williamsantanadeamorim/Projects/EXERC03-AT/EXERC03-AT/obj/Debug/net7.0/EXERC03-AT.csproj.CoreCompileInputs.cache
+/Users/williamsantanadeamorim/Projects/EXERC03-AT/EXERC03-AT/obj/Debug/net7.0/EXERC03-AT.dll
+/Users/williamsantanadeamorim/Projects/EXERC03-AT/EXERC03-AT/obj/Debug/net7.0/refint/EXERC03-AT.dll
+/Users/williamsantanadeamorim/Projects/EXERC03-AT/EXERC03-AT/obj/Debug/net7.0/EXERC03-AT.pdb
+/Users/williamsantanadeamorim/Projects/EXERC03-AT/EXERC03-AT/obj/Debug/net7.0/EXERC03-AT.genruntimeconfig.cache
+/Users/williamsantanadeamorim/Projects/EXERC03-AT/EXERC03-AT/obj/Debug/net7.0/ref/EXERC03-AT.dll
